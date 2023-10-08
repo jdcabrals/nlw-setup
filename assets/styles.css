@@ -111,3 +111,10 @@
         display:none;
     }
   }
+
+  .constante{
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    font-size: 20px;
+  }
